@@ -91,3 +91,7 @@ contract SDET is SeroInterface, HasOwner {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+## 命令
+
+![SERO Remix](.gitbook/assets/image.png)
+
