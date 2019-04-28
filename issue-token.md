@@ -245,3 +245,16 @@ var brts = borongtsContract.at('tqt82x8DcHyj12x4mywqBczPjcFjBnCN7WrXfMYSdPto8FB1
 
 ![&#x518D;&#x6B21;&#x8C03;&#x7528;&#x5408;&#x7EA6;](.gitbook/assets/image.png)
 
+## 费用
+
+SERO被设计成发行收费的经济模型。目前收费的情况如下：
+
+* Dev网络
+  * 统一收费1 SERO
+* Beta网络
+  * 1个字母：100万 SERO
+  * 2个字母：30万 SERO
+  * 3个字母：10万 SERO
+  * 4个字母：1000 SERO
+  * 其他：1 SERO
+
